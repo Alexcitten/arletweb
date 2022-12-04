@@ -603,8 +603,6 @@ pre code {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  margin-right: -100px;
-  margin-left: -15px;
 }
 
 .no-gutters {
